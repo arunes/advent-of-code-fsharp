@@ -2,8 +2,8 @@ module Puzzles.Year2015.Day01
 
 open System.IO
 
-let private getInstructions fileName =
-    let fileContent = File.ReadAllText(fileName)
+let private getInstructions =
+    let fileContent = File.ReadAllText("./puzzles/2015/day-01/input.txt")
     Seq.toList fileContent
 
 let private getDirection input =
@@ -14,12 +14,12 @@ let private getDirection input =
 
 // Part 1
 let findFloor =
-    let instructions = getInstructions "./puzzles/2015/day-01/input.txt"
+    let instructions = getInstructions
     instructions |> List.map getDirection |> List.sum
 
 // Part 2
 let findWhenInBasement =
-    let instructions = getInstructions "./puzzles/2015/day-01/input.txt"
+    let instructions = getInstructions
 
     instructions
     |> List.scan (fun total current -> total + (getDirection current)) 0
