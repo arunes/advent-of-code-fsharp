@@ -67,6 +67,7 @@ let private givePresents houses currentHouse direction =
     else
         getHouseListWithUpdatedPresents houses existingHouse.Value newLocation
 
+// Part 1
 let givePresentsAsSanta =
     let initHouse = (getNewHouse 0 0)
 
@@ -79,7 +80,7 @@ let givePresentsAsSanta =
 
     results.All.Length
 
-
+// Part 2
 let givePresentsAsSantaAndRobot =
     let initHouse = (getNewHouse 0 0)
 
