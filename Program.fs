@@ -2,6 +2,7 @@
 module Day2 = Puzzles.Year2015.Day02
 module Day3 = Puzzles.Year2015.Day03
 module Day4 = Puzzles.Year2015.Day04
+module Day5 = Puzzles.Year2015.Day05
 
 // 2015
 // Day 1
@@ -25,3 +26,8 @@ let year2015Day4Part1 = Day4.getLowestHash
 let year2015Day4Part2 = Day4.getLowestHashSixZeroes
 printfn "2015 Day 4, Part 1 result: %d, part 2 result: %d" year2015Day4Part1 year2015Day4Part2
 *)
+
+// Day 5
+let year2015Day5Part1 = Day5.howManyAreNice
+let year2015Day5Part2 = Day5.howManyAreNicePart2
+printfn "2015 Day 5, Part 1 result: %d, part 2 result: %d" year2015Day5Part1 year2015Day5Part2
