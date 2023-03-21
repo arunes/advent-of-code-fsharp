@@ -10,6 +10,7 @@
     <Compile Include="puzzles/2015/day-03/day-03.fs" />
     <Compile Include="puzzles/2015/day-04/day-04.fs" />
     <Compile Include="puzzles/2015/day-05/day-05.fs" />
+    <Compile Include="puzzles/2015/day-06/day-06.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>
