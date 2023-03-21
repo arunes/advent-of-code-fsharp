@@ -1,11 +1,10 @@
-﻿open System.Text.RegularExpressions
-
-module Day1 = Puzzles.Year2015.Day01
+﻿module Day1 = Puzzles.Year2015.Day01
 module Day2 = Puzzles.Year2015.Day02
 module Day3 = Puzzles.Year2015.Day03
 module Day4 = Puzzles.Year2015.Day04
 module Day5 = Puzzles.Year2015.Day05
 module Day6 = Puzzles.Year2015.Day06
+module Day7 = Puzzles.Year2015.Day07
 
 // 2015
 // Day 1
@@ -37,3 +36,8 @@ module Day6 = Puzzles.Year2015.Day06
 // let year2015Day6Part1 = Day6.turnOnAndOff
 // let year2015Day6Part2 = Day6.toggleBrightness
 // printfn "2015 Day 6, Part 1 result: %d, part 2 result: %d" year2015Day6Part1 year2015Day6Part2
+
+// Day 7
+// let year2015Day7Part1 = Day7.getWireASignal
+// let year2015Day7Part2 = Day7.getOverridenSignal
+// printfn "2015 Day 7, Part 1 result: %d, part 2 result: %d" year2015Day7Part1 year2015Day7Part2
