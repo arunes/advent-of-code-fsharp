@@ -5,6 +5,7 @@ module Day4 = Puzzles.Year2015.Day04
 module Day5 = Puzzles.Year2015.Day05
 module Day6 = Puzzles.Year2015.Day06
 module Day7 = Puzzles.Year2015.Day07
+module Day8 = Puzzles.Year2015.Day08
 
 // 2015
 // Day 1
@@ -41,3 +42,8 @@ module Day7 = Puzzles.Year2015.Day07
 // let year2015Day7Part1 = Day7.getWireASignal
 // let year2015Day7Part2 = Day7.getOverridenSignal
 // printfn "2015 Day 7, Part 1 result: %d, part 2 result: %d" year2015Day7Part1 year2015Day7Part2
+
+// Day 8
+// let year2015Day8Part1 = Day8.diffFromCleaned
+// let year2015Day8Part2 = Day8.diffFromEncoded
+// printfn "2015 Day 8, Part 1 result: %d, part 2 result: %d" year2015Day8Part1 year2015Day8Part2
