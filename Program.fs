@@ -7,6 +7,7 @@ module Day6 = Puzzles.Year2015.Day06
 module Day7 = Puzzles.Year2015.Day07
 module Day8 = Puzzles.Year2015.Day08
 module Day9 = Puzzles.Year2015.Day09
+module Day10 = Puzzles.Year2015.Day10
 
 // 2015
 // Day 1
@@ -53,3 +54,9 @@ module Day9 = Puzzles.Year2015.Day09
 // let year2015Day9Part1 = Day9.shortestRoute
 // let year2015Day9Part2 = Day9.longestRoute
 // printfn "2015 Day 9, Part 1 result: %d, part 2 result: %d" year2015Day9Part1 year2015Day9Part2
+
+// Day 10
+// let year2015Day10Part1 = Day10.lookAndSay 40
+// let year2015Day10Part2 = Day10.lookAndSay 50
+// printfn "2015 Day 10, Part 1 result: %d, part 2 result: %d" year2015Day10Part1 year2015Day10Part2
+
