@@ -9,6 +9,7 @@ module Day8 = Puzzles.Year2015.Day08
 module Day9 = Puzzles.Year2015.Day09
 module Day10 = Puzzles.Year2015.Day10
 module Day11 = Puzzles.Year2015.Day11
+module Day12 = Puzzles.Year2015.Day12
 
 // 2015
 // Day 1
@@ -65,3 +66,8 @@ module Day11 = Puzzles.Year2015.Day11
 // let year2015Day11Part1 = Day11.getNextPassword "vzbxkghb"
 // let year2015Day11Part2 = Day11.getNextPassword year2015Day11Part1
 // printfn "2015 Day 11, Part 1 result: %s, part 2 result: %s" year2015Day11Part1 year2015Day11Part2
+
+// Day 12
+// let year2015Day12Part1 = Day12.sumOfAllNumbers
+// let year2015Day12Part2 = Day12.sumOfNumbersThatAreNotRed
+// printfn "2015 Day 12, Part 1 result: %d, part 2 result: %d" year2015Day12Part1 year2015Day12Part2
