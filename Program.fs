@@ -74,6 +74,6 @@ module Day13 = Puzzles.Year2015.Day13
 // printfn "2015 Day 12, Part 1 result: %d, part 2 result: %d" year2015Day12Part1 year2015Day12Part2
 
 // Day 13
-let year2015Day13Part1 = Day13.totalHappiness
-let year2015Day13Part2 = Day13.totalHappinessWithMe
-printfn "2015 Day 13, Part 1 result: %d, part 2 result: %d" year2015Day13Part1 year2015Day13Part2
+// let year2015Day13Part1 = Day13.totalHappiness
+// let year2015Day13Part2 = Day13.totalHappinessWithMe
+// printfn "2015 Day 13, Part 1 result: %d, part 2 result: %d" year2015Day13Part1 year2015Day13Part2
