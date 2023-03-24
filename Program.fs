@@ -13,6 +13,7 @@ module Day12 = Puzzles.Year2015.Day12
 module Day13 = Puzzles.Year2015.Day13
 module Day14 = Puzzles.Year2015.Day14
 module Day15 = Puzzles.Year2015.Day15
+module Day16 = Puzzles.Year2015.Day16
 
 // 2015
 // Day 1
@@ -89,3 +90,8 @@ module Day15 = Puzzles.Year2015.Day15
 // let year2015Day15Part1 = Day15.getBestCookie()
 // let year2015Day15Part2 = Day15.getBestCookieWithSetCalories 500
 // printfn "2015 Day 15, Part 1 result: %d, part 2 result: %d" year2015Day15Part1 year2015Day15Part2
+
+// Day 16
+// let year2015Day16Part1 = Day16.findMyAunt ()
+// let year2015Day16Part2 = Day16.findMyAuntNotExact ()
+// printfn "2015 Day 16, Part 1 result: %d, part 2 result: %d" year2015Day16Part1 year2015Day16Part2
