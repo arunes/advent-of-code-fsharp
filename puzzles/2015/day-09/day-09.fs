@@ -46,5 +46,8 @@ let private routesWithDistances =
 
         miles)
 
+// Part 1
 let shortestRoute = routesWithDistances |> List.min
+
+// Part 2
 let longestRoute = routesWithDistances |> List.max

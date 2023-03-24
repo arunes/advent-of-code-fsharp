@@ -101,6 +101,7 @@ let race duration =
             |> Map.ofSeq)
         initialStatus
 
+// Part 1
 let raceTraditional duration =
     let winner =
         race duration
@@ -111,6 +112,7 @@ let raceTraditional duration =
 
     winner.DistanceFlew
 
+// Part 2
 let raceWithPoints duration =
     let winner =
         race duration

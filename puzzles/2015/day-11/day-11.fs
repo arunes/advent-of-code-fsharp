@@ -47,6 +47,7 @@ let private increment password =
     |> snd
     |> numbersToWord
 
+// Part 1 & 2
 let rec getNextPassword password =
     let newPassword = increment password
 

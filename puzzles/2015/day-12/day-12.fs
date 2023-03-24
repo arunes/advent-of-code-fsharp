@@ -4,6 +4,7 @@ open System.IO
 open FSharp.Data
 open System.Text.RegularExpressions
 
+// Part 1
 let sumOfAllNumbers =
     let json = "./puzzles/2015/day-12/input.txt" |> File.ReadAllText
 
@@ -12,7 +13,7 @@ let sumOfAllNumbers =
     |> Seq.where (fun (rm: Match) -> rm.Groups[1].Success)
     |> Seq.sumBy (fun (rm: Match) -> int rm.Groups[1].Value)
 
-
+// Part 2
 let sumOfNumbersThatAreNotRed =
     let rec sumNodes (nodes: list<(string * JsonValue)>, sum: int) =
         match nodes with

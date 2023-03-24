@@ -27,7 +27,7 @@ let private getResult input =
     |> Seq.map (fun (rm: Match) -> $"{rm.Length}{rm.Value.Substring(0, 1)}")
     |> String.concat ""
 
-
+// Part 1 & 2
 let lookAndSay times =
     [ 1..times ]
     |> List.fold (fun acc _ -> getResult acc) "3113322113"

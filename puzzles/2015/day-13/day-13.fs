@@ -79,10 +79,12 @@ let arrangmentWithHappiness (people: Map<string, Map<string, int>>) =
         happiness)
     |> List.max
 
+// Part 1
 let totalHappiness =
     let people = getPeople false
     arrangmentWithHappiness people
 
+// Part 2
 let totalHappinessWithMe =
     let people = getPeople true
     arrangmentWithHappiness people
