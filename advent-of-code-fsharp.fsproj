@@ -21,6 +21,7 @@
     <Compile Include="puzzles/2015/day-14/day-14.fs" />
     <Compile Include="puzzles/2015/day-15/day-15.fs" />
     <Compile Include="puzzles/2015/day-16/day-16.fs" />
+    <Compile Include="puzzles/2015/day-17/day-17.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <ItemGroup>

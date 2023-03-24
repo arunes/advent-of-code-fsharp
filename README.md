@@ -18,3 +18,4 @@ Solving [advent of code](https://adventofcode.com/) puzzles to practice F#
 - [Day 14: Reindeer Olympics](puzzles/2015/day-14/day-14.fs)
 - [Day 15: Science for Hungry People](puzzles/2015/day-15/day-15.fs)
 - [Day 16: Aunt Sue](puzzles/2015/day-16/day-16.fs)
+- [Day 17: No Such Thing as Too Much](puzzles/2015/day-17/day-17.fs)
