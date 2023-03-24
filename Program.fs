@@ -11,6 +11,7 @@ module Day10 = Puzzles.Year2015.Day10
 module Day11 = Puzzles.Year2015.Day11
 module Day12 = Puzzles.Year2015.Day12
 module Day13 = Puzzles.Year2015.Day13
+module Day14 = Puzzles.Year2015.Day14
 
 // 2015
 // Day 1
@@ -77,3 +78,8 @@ module Day13 = Puzzles.Year2015.Day13
 // let year2015Day13Part1 = Day13.totalHappiness
 // let year2015Day13Part2 = Day13.totalHappinessWithMe
 // printfn "2015 Day 13, Part 1 result: %d, part 2 result: %d" year2015Day13Part1 year2015Day13Part2
+
+// Day 14
+// let year2015Day14Part1 = Day14.raceTraditional 2503
+// let year2015Day14Part2 = Day14.raceWithPoints 2503
+// printfn "2015 Day 14, Part 1 result: %d, part 2 result: %d" year2015Day14Part1 year2015Day14Part2
