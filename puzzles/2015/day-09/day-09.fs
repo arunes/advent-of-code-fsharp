@@ -22,7 +22,7 @@ let private cities =
     (fromCities @ toCities) |> List.distinct
 
 
-let private permute list =
+let permute list =
     let rec inserts e =
         function
         | [] -> [ [ e ] ]
