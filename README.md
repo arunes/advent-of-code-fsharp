@@ -16,3 +16,4 @@ Solving [advent of code](https://adventofcode.com/) puzzles to practice F#
 - [Day 12: JSAbacusFramework.io](puzzles/2015/day-12/day-12.fs)
 - [Day 13: Knights of the Dinner Table](puzzles/2015/day-13/day-13.fs)
 - [Day 14: Reindeer Olympics](puzzles/2015/day-14/day-14.fs)
+- [Day 15: Science for Hungry People](puzzles/2015/day-15/day-15.fs)
