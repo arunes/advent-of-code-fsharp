@@ -19,3 +19,5 @@ Solving [advent of code](https://adventofcode.com/) puzzles to practice F#
 - [Day 15: Science for Hungry People](puzzles/2015/day-15/day-15.fs)
 - [Day 16: Aunt Sue](puzzles/2015/day-16/day-16.fs)
 - [Day 17: No Such Thing as Too Much](puzzles/2015/day-17/day-17.fs)
+- [Day 18: Like a GIF For Your Yard](puzzles/2015/day-18/day-18.fs)
+- [Day 19: Medicine for Rudolph](puzzles/2015/day-19/day-19.fs)

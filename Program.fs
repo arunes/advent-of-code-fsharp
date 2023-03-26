@@ -15,6 +15,8 @@ module Day14 = Puzzles.Year2015.Day14
 module Day15 = Puzzles.Year2015.Day15
 module Day16 = Puzzles.Year2015.Day16
 module Day17 = Puzzles.Year2015.Day17
+module Day18 = Puzzles.Year2015.Day18
+module Day19 = Puzzles.Year2015.Day19
 
 // 2015
 // Day 1
@@ -101,3 +103,13 @@ module Day17 = Puzzles.Year2015.Day17
 // let year2015Day17Part1 = Day17.getNumberOfCombinations ()
 // let year2015Day17Part2 = Day17.getMinOfCombinations ()
 // printfn "2015 Day 17, Part 1 result: %d, part 2 result: %d" year2015Day17Part1 year2015Day17Part2
+
+// Day 18
+// let year2015Day18Part1 = Day18.howManyLightsAreOn 100
+// let year2015Day18Part2 = Day18.howManyLightsAreOnCornersOn 100
+// printfn "2015 Day 18, Part 1 result: %d, part 2 result: %d" year2015Day18Part1 year2015Day18Part2
+
+// Day 19
+let year2015Day19Part1 = Day19.numberOfDistinctMolecules()
+let year2015Day19Part2 = Day19.howLongWillItTake()
+printfn "2015 Day 19, Part 1 result: %d, part 2 result: %d" year2015Day19Part1 year2015Day19Part2
