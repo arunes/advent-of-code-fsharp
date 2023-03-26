@@ -16,7 +16,7 @@ let private getInput () =
     (lines |> Seq.last, formulas |> Seq.toList)
 
 
-let rec doReplace replacements input =
+let rec private doReplace replacements input =
     seq {
         match replacements with
         | [] -> ()
