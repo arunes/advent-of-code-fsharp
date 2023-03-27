@@ -1,6 +1,6 @@
 module Puzzles.Year2015.Day20
 
-let getFactors number =
+let private getFactors number =
     let root = number |> double |> sqrt |> int
 
     seq {
