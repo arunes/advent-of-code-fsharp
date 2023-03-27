@@ -1,7 +1,5 @@
 module Puzzles.Year2015.Day21
 
-module Day9 = Puzzles.Year2015.Day09
-
 open System.IO
 open System.Text.RegularExpressions
 
