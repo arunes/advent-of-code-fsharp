@@ -122,6 +122,6 @@ module Day21 = Puzzles.Year2015.Day21
 // printfn "2015 Day 20, Part 1 result: %d, part 2 result: %d" year2015Day20Part1 year2015Day20Part2
 
 // Day 21
-let year2015Day21Part1 = Day21.cheapestWin()
-let year2015Day21Part2 = Day21.mostExpensiveLoss()
-printfn "2015 Day 20, Part 1 result: %d, part 2 result: %d" year2015Day21Part1 year2015Day21Part2
+// let year2015Day21Part1 = Day21.cheapestWin()
+// let year2015Day21Part2 = Day21.mostExpensiveLoss()
+// printfn "2015 Day 21, Part 1 result: %d, part 2 result: %d" year2015Day21Part1 year2015Day21Part2
