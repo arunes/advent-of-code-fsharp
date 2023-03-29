@@ -24,3 +24,5 @@ Solving [advent of code](https://adventofcode.com/) puzzles to practice F#
 - [Day 20: Infinite Elves and Infinite Houses](puzzles/2015/day-20/day-20.fs)
 - [Day 21: RPG Simulator 20XX](puzzles/2015/day-21/day-21.fs)
 - [Day 22: Wizard Simulator 20XX](puzzles/2015/day-22/day-22.fs)
+- [Day 23: Opening the Turing Lock](puzzles/2015/day-23/day-23.fs)
+- [Day 24: It Hangs in the Balance](puzzles/2015/day-24/day-24.fs)
