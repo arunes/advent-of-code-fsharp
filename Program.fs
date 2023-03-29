@@ -19,6 +19,7 @@ module Day18 = Puzzles.Year2015.Day18
 module Day19 = Puzzles.Year2015.Day19
 module Day20 = Puzzles.Year2015.Day20
 module Day21 = Puzzles.Year2015.Day21
+module Day22 = Puzzles.Year2015.Day22
 
 // 2015
 // Day 1
@@ -125,3 +126,8 @@ module Day21 = Puzzles.Year2015.Day21
 // let year2015Day21Part1 = Day21.cheapestWin()
 // let year2015Day21Part2 = Day21.mostExpensiveLoss()
 // printfn "2015 Day 21, Part 1 result: %d, part 2 result: %d" year2015Day21Part1 year2015Day21Part2
+
+// Day 22
+// let year2015Day22Part1 = Day22.cheapestWin 1 (50, 500) (51, 9)
+// let year2015Day22Part2 = Day22.cheapestWin 2 (50, 500) (51, 9)
+// printfn "2015 Day 22, Part 1 result: %d, part 2 result: %d" year2015Day22Part1 year2015Day22Part2

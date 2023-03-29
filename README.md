@@ -23,3 +23,4 @@ Solving [advent of code](https://adventofcode.com/) puzzles to practice F#
 - [Day 19: Medicine for Rudolph](puzzles/2015/day-19/day-19.fs)
 - [Day 20: Infinite Elves and Infinite Houses](puzzles/2015/day-20/day-20.fs)
 - [Day 21: RPG Simulator 20XX](puzzles/2015/day-21/day-21.fs)
+- [Day 22: Wizard Simulator 20XX](puzzles/2015/day-22/day-22.fs)
