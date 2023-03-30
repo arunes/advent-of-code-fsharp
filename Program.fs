@@ -22,6 +22,7 @@ module Day21 = Puzzles.Year2015.Day21
 module Day22 = Puzzles.Year2015.Day22
 module Day23 = Puzzles.Year2015.Day23
 module Day24 = Puzzles.Year2015.Day24
+module Day25 = Puzzles.Year2015.Day25
 
 // 2015
 // Day 1
@@ -143,3 +144,7 @@ module Day24 = Puzzles.Year2015.Day24
 // let year2015Day24Part1 = Day24.lowestQEFor3Boxes()
 // let year2015Day24Part2 = Day24.lowestQEFor4Boxes()
 // printfn "2015 Day 24, Part 1 result: %d, part 2 result: %d" year2015Day24Part1 year2015Day24Part2
+
+// Day 25
+// let year2015Day25 = Day25.getPassword()
+// printfn "2015 Day 25 result: %d" year2015Day25

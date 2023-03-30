@@ -26,3 +26,4 @@ Solving [advent of code](https://adventofcode.com/) puzzles to practice F#
 - [Day 22: Wizard Simulator 20XX](puzzles/2015/day-22/day-22.fs)
 - [Day 23: Opening the Turing Lock](puzzles/2015/day-23/day-23.fs)
 - [Day 24: It Hangs in the Balance](puzzles/2015/day-24/day-24.fs)
+- [Day 25: Let It Snow](puzzles/2015/day-25/day-25.fs)
